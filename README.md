@@ -36,7 +36,8 @@
   
 ## 모델 학습
 ### Ko-BERT 
-- pre-trained된 ko-BERT를 fine-tuning
+- 사용 목적: 질문에 대한 적절한 라벨을 예측하여 매핑 후 수의사의 답변 제공 
+- 학습 방법: pre-trained ko-BERT를 분류 task에 맞게 fine-tuning
 
    <img src="https://github.com/daunJJ/daunJJ/assets/109944763/98ed14dc-2e2d-4035-bc67-33f96b145150" width="350" height= "300"/>
 
