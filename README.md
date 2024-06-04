@@ -42,8 +42,6 @@
    <img src="https://github.com/daunJJ/daunJJ/assets/109944763/98ed14dc-2e2d-4035-bc67-33f96b145150" width="350" height= "300"/>
 
 ## 웹 구현
-- 챗봇 화면을 디자인한 후 HTML, CSC, javascript를 작성하여 웹 서비스 화면을 구현
-- flask의 ngrok을 사용하여 API를 개방
   
   <img src="https://github.com/daunJJ/daunJJ/assets/109944763/9309d2e7-1ed5-415f-a614-b271f9dd1c04" width="400" height= "300"/>
 
